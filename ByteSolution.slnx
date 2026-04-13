@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ByteSolution.Api/ByteSolution.Api.csproj" />
+  <Project Path="ByteSolution.Application/ByteSolution.Application.csproj" />
+  <Project Path="ByteSolution.Domain/ByteSolution.Domain.csproj" />
+  <Project Path="ByteSolution.Infrastructure/ByteSolution.Infrastructure.csproj" />
+</Solution>
